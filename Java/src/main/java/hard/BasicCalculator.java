@@ -36,7 +36,7 @@ public class BasicCalculator {
         int sign = 1; // sign of the current context
         int num = 0;
 
-        Stack<Integer> stack = new Stack<>();
+        Stack<Integer> stack = new Stack<Integer>();
         stack.push(sign); // start with +1
         for (char c : s.toCharArray()) {
             if (c >= '0' && c <= '9') { // current number

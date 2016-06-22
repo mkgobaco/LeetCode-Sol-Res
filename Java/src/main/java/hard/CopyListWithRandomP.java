@@ -10,7 +10,7 @@ import java.util.*;
  * 
  * Tags: Hashtable, Linkedlist
  */
-class CopyListWithRandomP {
+public class CopyListWithRandomP {
     
     public static void main(String[] args) {
         
@@ -42,7 +42,7 @@ class CopyListWithRandomP {
      * Then split into two lists
      */
     public RandomListNode copyRandomList2(RandomListNode head) {
-        if (head == null) resurn head;
+        if (head == null) return head;
         RandomListNode p1 = head;
         while (p1 != null) {
             RandomListNode copy = new RandomListNode(p1.label);
