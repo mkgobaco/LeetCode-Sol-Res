@@ -9,7 +9,7 @@
 5. Implement strstr()  
 6. Reverse words in a string  
 7. Reverse words in a string 2  
-8. String to integer(atoi)  
+8. String to integer(easy.atoi)
 9. Valid number  
 10. Longest substring without repeating characters  
 11. Longest substring with at most two distinct characters

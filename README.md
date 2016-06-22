@@ -16,7 +16,7 @@ Also want to access all codes on your Android phone? Get APAS from [GooglePlay](
 
 * Level Categorization: Easy, Middle and Hard.  
 * Problem Description and Tags on Top.  
-* Clear Solution Explanation.  
+* Clear hard.Solution Explanation.
 * In-line Comment for Key Points.  
 * Different Solutions for Comparison.  
   
